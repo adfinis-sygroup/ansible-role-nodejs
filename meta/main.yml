@@ -4,6 +4,7 @@ dependencies:
   - role: adfinis-sygroup.ansible
 
 galaxy_info:
+  role_name: 'nodejs'
   author: 'Adfinis SyGroup AG'
   description: 'Install and manage nodejs'
   company: 'Adfinis SyGroup AG'
